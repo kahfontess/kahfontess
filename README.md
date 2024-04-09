@@ -14,7 +14,7 @@
   <img align="center" alt="Kah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kah-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Kah-pic" height="150" style="border-radius:50px;" 
+  img align="right" alt="Kah-pic" height="150" style="border-radius:50px;" 
        src="">
 </div>
   
