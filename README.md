@@ -29,7 +29,7 @@ I’m motivated by challenges that require logical thinking and the creation of 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -131,7 +131,7 @@ I’m motivated by challenges that require logical thinking and the creation of 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
