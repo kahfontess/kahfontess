@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Carlos Eduardo Fontes Camacho
 
-**`Desenvolvedor FullStack`**
+**`FullStack developer`**
 
 My name is Carlos Eduardo Fontes Camacho, I’m 22 years old, and I’m from São Paulo, Brazil. I am currently in my final year of the Software Engineering Bachelor’s program at PUC-Campinas, while also pursuing a Fullstack Development degree at Rocketseat (Jan/2023 – Dec/2025).
 
@@ -8,7 +8,7 @@ I am passionate about technology and continuously share my progress through prac
 
 I am currently developing my undergraduate thesis in partnership with a group of companies, applying software engineering concepts in a real business context. I also have experience with diverse projects that strengthen my technical skills, organization, collaboration, and commitment to best practices such as code versioning, agile methodologies, and software quality.
 
-I’m motivated by challenges that require logical thinking and the creation of efficient solutions. I maintain an active GitHub portfolio where I share projects that showcase my ongoing development. I am seeking my first opportunity as a software developer, aiming to contribute to impactful technological solutions while expanding my knowledge of new languages and frameworks.
+I’m motivated by challenges that require logical thinking and the creation of efficient solutions.
 
 <p align="left">
     <a href="https://github.com/kahfontess?tab=repositories">
