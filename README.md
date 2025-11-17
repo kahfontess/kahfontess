@@ -1,8 +1,14 @@
-# 🧑🏻‍💻 Carlos Fontes
+# 🧑🏻‍💻 Carlos Eduardo Fontes Camacho
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Carlos Eduardo Fontes Camacho, tenho 22 anos e sou natural de São Paulo - Brasil. Atualmente, estou cursando Engenharia de Software na PUC-Campinas. Sou fascinado por tecnologia e compartilho meu conhecimento através de meus projetos, onde mostro minha evolução e aprendizados.
+My name is Carlos Eduardo Fontes Camacho, I’m 22 years old, and I’m from São Paulo, Brazil. I am currently in my final year of the Software Engineering Bachelor’s program at PUC-Campinas, while also pursuing a Fullstack Development degree at Rocketseat (Jan/2023 – Dec/2025).
+
+I am passionate about technology and continuously share my progress through practical projects that reflect my growth and learning journey. I have both academic and hands-on experience with Java, JavaScript, React.js, Node.js, Python, Git/GitHub, Docker, and Figma, among other technologies.
+
+I am currently developing my undergraduate thesis in partnership with a group of companies, applying software engineering concepts in a real business context. I also have experience with diverse projects that strengthen my technical skills, organization, collaboration, and commitment to best practices such as code versioning, agile methodologies, and software quality.
+
+I’m motivated by challenges that require logical thinking and the creation of efficient solutions. I maintain an active GitHub portfolio where I share projects that showcase my ongoing development. I am seeking my first opportunity as a software developer, aiming to contribute to impactful technological solutions while expanding my knowledge of new languages and frameworks.
 
 <p align="left">
     <a href="https://github.com/kahfontess?tab=repositories">
@@ -71,7 +77,7 @@ Me chamo Carlos Eduardo Fontes Camacho, tenho 22 anos e sou natural de São Paul
     title="Next.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
 <img 
     align="left" 
